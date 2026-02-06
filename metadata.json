@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Scentia AI - Luxe Perfume Finder",
+  "description": "An elegant, AI-powered fragrance discovery platform that finds your perfect scent through personality analysis and intelligent mood mapping.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
